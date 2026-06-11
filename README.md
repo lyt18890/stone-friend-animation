@@ -17,7 +17,7 @@ My first 3D animation short film made with with Blender and AI tools
 - 海绵宝宝
 - 派大星
 - 菠萝屋
-
+https://github.com/lyt18890/stone-friend-animation/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-06-04%20001444.png
 使用Mesh自动绑骨骼然后导出为 FBX格式，导入 Blender。
 
 ### 2. 场景搭建
