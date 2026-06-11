@@ -37,7 +37,8 @@ https://github.com/lyt18890/stone-friend-animation/blob/main/%E5%B1%8F%E5%B9%95%
 - Mixamo上下载动作
 - 用不了动作的地方手动K帧
   
-![Uploading 屏幕截图 2026-06-11 182044.png…]()
+  下载动作
+(https://github.com/lyt18890/stone-friend-animation/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-06-11%20232638.png)
 
 
 
