@@ -42,17 +42,13 @@ https://github.com/lyt18890/stone-friend-animation/blob/main/%E5%B1%8F%E5%B9%95%
 
 
 
-### 6. 输出与合成
+### 5. 输出与合成
 - 由于没时间渲染了，我直接使用录屏方式录制Blender视口制作动画各片段
 - 在剪映中剪辑动画素材，对齐音频
 - 导出最终 MP4 文件
-
+https://github.com/lyt18890/stone-friend-animation/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-06-12%20011256.png
 ---
 
-## 📷 截图展示
 
-（下面放你的截图）
-
----
 
 ## 📦 文件结构
