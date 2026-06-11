@@ -32,7 +32,7 @@ My first 3D animation short film made with with Blender and AI tools
 - 爱给网上找到海绵宝宝和派大星的音频，UBERDUCK网站上生成角色配音
 - 在剪映中剪辑音频，导出 MP3
 - 导入 Blender 作为动画节奏参考
-
+https://github.com/lyt18890/stone-friend-animation/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-05-31%20182042.png
 ### 4. 角色动画
 - Mixamo上下载动作
 - 用不了动作的地方手动K帧
