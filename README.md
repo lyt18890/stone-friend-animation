@@ -50,5 +50,9 @@ https://github.com/lyt18890/stone-friend-animation/blob/main/%E5%B1%8F%E5%B9%95%
 ---
 
 
+---
 
-## 📦 文件结构
+## ✅ 总结
+通过本次项目，我了解了从AI生成模型到Blender手动K帧、再到最终输出的完整3D动画制作流程。虽然遇到了Mixamo绑定失败、动作库不匹配等问题，但通过手动K帧和录屏输出等方式灵活解决，最终完成了作品。
+
+
