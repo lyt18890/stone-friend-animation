@@ -25,7 +25,7 @@ https://github.com/lyt18890/stone-friend-animation/blob/main/%E5%B1%8F%E5%B9%95%
 - 添加天空背景（世界环境+纹理）
 - 添加石头道具（3D模型导入）
 
-
+https://github.com/lyt18890/stone-friend-animation/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202026-05-14%20113525.png
 
 
 ### 3. 音频制作
