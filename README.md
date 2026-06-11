@@ -57,4 +57,4 @@ https://github.com/lyt18890/stone-friend-animation/blob/main/%E5%B1%8F%E5%B9%95%
 
 
 ## 🏀 小球弹跳练习
-之前用Claude生成的小球弹跳动画
+之前用Claude生成的小球弹跳动画https://github.com/lyt18890/stone-friend-animation/blob/main/README.md
